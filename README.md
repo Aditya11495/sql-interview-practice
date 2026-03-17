@@ -9,12 +9,12 @@ It covers all important SQL concepts from **basic to advanced level**, with a fo
 - Basic Queries (SELECT, WHERE, ORDER BY)
 - Aggregate Functions (SUM, AVG, COUNT)
 - GROUP BY & HAVING
-- Joins:
+- # Joins:
   - INNER JOIN
   - LEFT JOIN
   - RIGHT JOIN
   - FULL JOIN
-- Subqueries
+- # Subqueries
 - Window Functions:
   - RANK()
   - DENSE_RANK()
