@@ -23,7 +23,3 @@ It covers all important SQL concepts from **basic to advanced level**, with a fo
   - Nth Highest Salary
   - Duplicate Records
   - Data Filtering & Cleaning
-
----
-
-## 📂 Folder Structure
