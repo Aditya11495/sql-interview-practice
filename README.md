@@ -4,9 +4,7 @@ This repository contains a structured collection of SQL queries for **interview 
 
 It covers all important SQL concepts from **basic to advanced level**, with a focus on **corporate use cases**.
 
----
-
-## 🚀 Topics Covered
+# Topics Covered
 
 - Basic Queries (SELECT, WHERE, ORDER BY)
 - Aggregate Functions (SUM, AVG, COUNT)
