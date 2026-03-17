@@ -19,7 +19,7 @@ It covers all important SQL concepts from **basic to advanced level**, with a fo
   - RANK()
   - DENSE_RANK()
   - ROW_NUMBER()
-- Advanced Problems:
+- # Advanced Problems:
   - Nth Highest Salary
   - Duplicate Records
   - Data Filtering & Cleaning
